@@ -1,0 +1,10 @@
+Student: Nil
+Subject		Marks
+-------------------
+Networking		60
+OS		62
+AI/ML		86
+Project		36
+-------------------
+Total		244
+-------------------

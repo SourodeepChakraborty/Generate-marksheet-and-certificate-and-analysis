@@ -1,0 +1,21 @@
+A. Topper:
+Student: Trisha, Total Marks: 277
+
+B. Topper for Each Subject:
+Subject: Networking, Topper: Trisha, Marks: 70
+Subject: OS, Topper: Trisha, Marks: 90
+Subject: AI/ML, Topper: Nil, Marks: 86
+Subject: Project, Topper: Ayan, Marks: 55
+
+C. List of Students in Alphabetical Order with All Marks Plus Final Marks:
+Student: Ayan, Marks: {'Networking': 50, 'OS': 55, 'AI/ML': 50, 'Project': 55}, Total Marks: 210
+Student: Nil, Marks: {'Networking': 60, 'OS': 62, 'AI/ML': 86, 'Project': 36}, Total Marks: 244
+Student: Snigdha, Marks: {'Networking': 67, 'OS': 76, 'AI/ML': 46, 'Project': 36}, Total Marks: 225
+Student: Trisha, Marks: {'Networking': 70, 'OS': 90, 'AI/ML': 77, 'Project': 40}, Total Marks: 277
+
+D. List of Students in Total Marks Obtained List:
+Student: Trisha, Total Marks: 277
+Student: Nil, Total Marks: 244
+Student: Snigdha, Total Marks: 225
+Student: Ayan, Total Marks: 210
+

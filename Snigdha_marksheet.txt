@@ -1,0 +1,10 @@
+Student: Snigdha
+Subject		Marks
+-------------------
+Networking		67
+OS		76
+AI/ML		46
+Project		36
+-------------------
+Total		225
+-------------------

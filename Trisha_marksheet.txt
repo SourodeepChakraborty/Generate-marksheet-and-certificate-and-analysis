@@ -1,0 +1,10 @@
+Student: Trisha
+Subject		Marks
+-------------------
+Networking		70
+OS		90
+AI/ML		77
+Project		40
+-------------------
+Total		277
+-------------------

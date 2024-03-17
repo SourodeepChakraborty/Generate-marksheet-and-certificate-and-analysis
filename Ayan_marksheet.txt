@@ -1,0 +1,10 @@
+Student: Ayan
+Subject		Marks
+-------------------
+Networking		50
+OS		55
+AI/ML		50
+Project		55
+-------------------
+Total		210
+-------------------
